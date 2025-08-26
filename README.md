@@ -14,7 +14,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-EB4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://github.com/RonitManchanda?tab=followers" target="_blank">
-    <img alt="Followers" src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&label=Follow&color=0D1117">
+    <img alt="Followers" src="https://img.shields.io/github/followers/ronitmanchanda?style=for-the-badge&label=Follow&color=0D1117">
   </a>
 </p>
 
