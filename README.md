@@ -36,7 +36,7 @@
 
 ### 🧰 Tech & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,tailwind,html,css,postgres,mongodb,firebase,redis,git,linux,docker,nginx,aws,vercel,cloudflare,fastapi,flask,express,postman,pytest,selenium,bash,arduino,tensorflow,pytorch&perline=15" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,tailwind,html,css,postgres,mongodb,firebase,redis,git,linux,docker,nginx,vercel,cloudflare,fastapi,flask,express,postman,pytest,selenium,bash,arduino,tensorflow,pytorch&perline=15" />
 </p>
 
 > Bonus: Networking + Security: `scapy`, `wireshark`, `nmap`, `burp`, `jwt`, `oauth2`, `passlib`, `cryptography`.
@@ -48,7 +48,7 @@
 <div align="center">
 
 <a href="https://github.com/RonitManchanda/password-manager-web">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=password-manager&theme=transparent&border_color=30363d&show_owner=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RonitManchanda&repo=password-manager-web&theme=transparent&border_color=30363d&show_owner=true" />
 </a>
 </div>
 
@@ -56,7 +56,7 @@
 
 ### 📊 Dev Metrics
 <p align="center">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&theme=transparent&rank_icon=github&hide_border=true" />
+  <img height="168" src="https://github-readme-stats.vercel.app/api?username=RonitManchanda&show_icons=true&hide_title=true&theme=transparent&rank_icon=github&hide_border=true" />
   <img height="168" src="https://github-readme-streak-stats.herokuapp.com?user=RonitManchanda&theme=dark&hide_border=true&background=00000000" />
 </p>
 
