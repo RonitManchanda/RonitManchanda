@@ -1,16 +1,99 @@
-## Hi there 👋
+<!-- Header / Hero -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=2500&pause=600&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Your+Name+%F0%9F%91%8B;Software+Engineer+%7C+Secure+Computing+%7C+Builder;I+ship+fast%2C+secure%2C+and+well-tested+software." alt="Typing SVG" />
+</p>
 
-<!--
-**RonitManchanda/RonitManchanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://ronit.manchanda.vercel.app" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/ronitmanchanda" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:ronitm@vt.edu">
+    <img alt="Email" src="https://img.shields.io/badge/Email-EB4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/RonitManchanda?tab=followers" target="_blank">
+    <img alt="Followers" src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&label=Follow&color=0D1117">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+<!-- Short intro -->
+<p align="center">
+  <b>Secure-minded software developer</b> crafting backend services, front-end experiences, and tooling that scales.<br/>
+  Founder @ FIRST For Youth • CS (Secure Computing) • Virginia Tech
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧭 About Me
+- 🔭 Building: **AI Stock Bot (Alpaca + Discord)** and **Network Traffic Monitor (Scapy + Dash)**
+- 🛡️ Interests: **SOftware Development**, **AppSec**, **networking**, **automation**, **DevOps**, **privacy-by-design**
+- 🤝 Open to collab on **security-focused OSS** and **developer tooling**  
+- ⚡ Fun Fact: I teach STEM through my nonprofit **FIRST For Youth** 🎓
+
+---
+
+### 🧰 Tech & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,tailwind,html,css,postgres,mongodb,firebase,redis,git,linux,docker,nginx,aws,vercel,cloudflare,fastapi,flask,express,postman,pytest,selenium,bash,arduino,tensorflow,pytorch&perline=15" />
+</p>
+
+> Bonus: Networking + Security: `scapy`, `wireshark`, `nmap`, `burp`, `jwt`, `oauth2`, `passlib`, `cryptography`.
+
+---
+
+### 🚀 Featured Projects
+<!-- Replace repo names with yours -->
+<div align="center">
+
+<a href="https://github.com/RonitManchanda/password-manager-web">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=password-manager&theme=transparent&border_color=30363d&show_owner=true" />
+</a>
+</div>
+
+---
+
+### 📊 Dev Metrics
+<p align="center">
+  <img height="168" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&theme=transparent&rank_icon=github&hide_border=true" />
+  <img height="168" src="https://github-readme-streak-stats.herokuapp.com?user=RonitManchanda&theme=dark&hide_border=true&background=00000000" />
+</p>
+
+<p align="center">
+  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonitManchanda&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<!-- Optional: Activity Graph (can be heavy) -->
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true" />
+</p> -->
+
+<!-- Optional: Trophies -->
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&no-bg=true&margin-w=8" />
+</p> -->
+
+---
+
+### 🧪 Security / Infra Highlights
+- 🔐 **Password Manager**: zero-knowledge design, KDF-derived key (salted), Fernet encryption, 2FA via email/SMS  
+- 🛰️ **Network Monitor**: packet capture with `scapy`, live Dash panels, alerts on suspicious traffic  
+- 🤖 **AI Stock Bot**: Alpaca trading, risk guards, trade logging, Discord webhooks, min hold to curb churn  
+- 🕵️ **Scrapers @ scale**: proxy rotation, retries/backoff, fingerprinting resistance
+
+---
+
+### 🤝 Let’s Connect
+<p align="left">
+  <a href="https://ronit.manchanda.vercel.app"><img src="https://img.shields.io/badge/Portfolio-161B22?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/RonitManchanda"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:ronitm@vt.edu"><img src="https://img.shields.io/badge/Email-161B22?style=flat&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://github.com/ronitmanchanda"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Build. Measure. Learn. Secure.”</i> — Your Name
+</p>
