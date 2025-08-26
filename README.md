@@ -36,7 +36,7 @@
 
 ### 🧰 Tech & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,tailwind,html,css,postgres,mongodb,firebase,redis,git,linux,docker,nginx,vercel,cloudflare,fastapi,flask,express,postman,pytest,selenium,bash,arduino,tensorflow,pytorch&perline=15" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,tailwind,html,css,postgres,mongodb,firebase,redis,git,linux,docker,nginx,vercel,cloudflare,fastapi,flask,express,postman,selenium,bash,arduino,tensorflow,pytorch&perline=15" />
 </p>
 
 > Bonus: Networking + Security: `scapy`, `wireshark`, `nmap`, `burp`, `jwt`, `oauth2`, `passlib`, `cryptography`.
