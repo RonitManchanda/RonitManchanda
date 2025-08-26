@@ -27,7 +27,7 @@
 - 🔭 Building: **AI Stock Bot (Alpaca + Discord)** and **Network Traffic Monitor (Scapy + Dash)**
 - 🛡️ Interests: **SOftware Development**, **AppSec**, **networking**, **automation**, **DevOps**, **privacy-by-design**
 - 🤝 Open to collab on **security-focused OSS** and **developer tooling**  
-- ⚡ Fun Fact: I teach STEM through my nonprofit **FIRST For Youth** 🎓
+- ⚡ Fun Fact: I teach STEM through my nonprofit **FIRST For Youth** 🎓 (https://firstforyouth.org)
 
 ---
 
