@@ -95,5 +95,5 @@
 ---
 
 <p align="center">
-  <i>“Build. Measure. Learn. Secure.”</i> — Your Name
+  <i>“Build. Measure. Learn. Secure.”</i> — Ronit Manchanda
 </p>
