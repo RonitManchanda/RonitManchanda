@@ -48,11 +48,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RontManchanda&repo=password-manager-web&theme=transparent&border_color=30363d&show_owner=true" />
 </a>
 </div>
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RontManchanda&repo=portfolio&theme=transparent&border_color=30363d&show_owner=true" />
-</a>
-</div>
 ---
 
 ### 📊 Dev Metrics
