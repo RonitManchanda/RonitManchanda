@@ -40,25 +40,6 @@
 
 ---
 
-### 🚀 Featured Projects
-<!-- Replace repo names with yours -->
-<div align="center">
-
-<a href="https://github.com/RonitManchanda/password-manager-web">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RontManchanda&repo=password-manager-web&theme=transparent&border_color=30363d&show_owner=true" />
-</a>
-</div>
----
-
-### 📊 Dev Metrics
-<p align="center">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=RonitManchanda&show_icons=true&hide_title=true&theme=transparent&rank_icon=github&hide_border=true" />
-  <img height="168" src="https://github-readme-streak-stats.herokuapp.com?user=RonitManchanda&theme=dark&hide_border=true&background=00000000" />
-</p>
-
-<p align="center">
-  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonitManchanda&layout=compact&theme=transparent&hide_border=true" />
-</p>
 
 <!-- Optional: Activity Graph (can be heavy) -->
 <!-- <p align="center">
@@ -82,7 +63,7 @@
 
 ### 🤝 Let’s Connect
 <p align="left">
-  <a href="https://ronit.manchanda.vercel.app"><img src="https://img.shields.io/badge/Portfolio-161B22?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://ronitmanchanda.vercel.app"><img src="https://img.shields.io/badge/Portfolio-161B22?style=flat&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/RonitManchanda"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="mailto:ronitm@vt.edu"><img src="https://img.shields.io/badge/Email-161B22?style=flat&logo=gmail&logoColor=EA4335" /></a>
   <a href="https://github.com/ronitmanchanda"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat&logo=github&logoColor=white" /></a>
