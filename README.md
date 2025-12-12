@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ronit.manchanda.vercel.app" target="_blank">
+  <a href="https://ronitmanchanda.vercel.app" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/ronitmanchanda" target="_blank">
