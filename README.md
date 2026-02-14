@@ -23,15 +23,15 @@
 
 ---
 
-### 🧭 About Me
-- 🔭 Building: **AI Stock Bot (Alpaca + Discord)** and **Network Traffic Monitor (Scapy + Dash)**
-- 🛡️ Interests: **Software Development**, **AppSec**, **networking**, **automation**, **DevOps**, **privacy-by-design**
-- 🤝 Open to collab on **security-focused OSS** and **developer tooling**  
-- ⚡ Fun Fact: I teach STEM through my nonprofit **FIRST For Youth** 🎓 (https://www.firstforyouth.org)
+### About Me
+- Building: **AI Stock Bot (Alpaca + Discord)** and **Network Traffic Monitor (Scapy + Dash)**
+- Interests: **Software Development**, **AppSec**, **networking**, **automation**, **DevOps**, **privacy-by-design**
+- Open to collab on **security-focused OSS** and **developer tooling**  
+- Fun Fact: I start robotics teams at local schools through my nonprofit **FIRST For Youth** 🎓 (https://www.firstforyouth.org)
 
 ---
 
-### 🧰 Tech & Tools
+### Tech Stack & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,tailwind,html,css,postgres,mongodb,firebase,redis,git,linux,docker,nginx,vercel,cloudflare,fastapi,flask,express,postman,selenium,bash,arduino,tensorflow,pytorch&perline=15" />
 </p>
@@ -53,15 +53,15 @@
 
 ---
 
-### 🧪 Security / Infra Highlights
-- 🔐 **Password Manager**: zero-knowledge design, KDF-derived key (salted), Fernet encryption, 2FA via email/SMS  
-- 🛰️ **Network Monitor**: packet capture with `scapy`, live Dash panels, alerts on suspicious traffic  
-- 🤖 **AI Stock Bot**: Alpaca trading, risk guards, trade logging, Discord webhooks, min hold to curb churn  
-- 🕵️ **Scrapers @ scale**: proxy rotation, retries/backoff, fingerprinting resistance
+### Security / Infra Highlights
+- **Password Manager**: zero-knowledge design, KDF-derived key (salted), Fernet encryption, 2FA via email/SMS  
+- **Network Monitor**: packet capture with `scapy`, live Dash panels, alerts on suspicious traffic  
+- **AI Stock Bot**: Alpaca trading, risk guards, trade logging, Discord webhooks, min hold to curb churn  
+- **Scrapers @ scale**: proxy rotation, retries/backoff, fingerprinting resistance
 
 ---
 
-### 🤝 Let’s Connect
+### Let’s Connect
 <p align="left">
   <a href="https://ronitmanchanda.vercel.app"><img src="https://img.shields.io/badge/Portfolio-161B22?style=flat&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/RonitManchanda"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat&logo=linkedin&logoColor=0A66C2" /></a>
