@@ -17,7 +17,7 @@
 
 <!-- Short intro -->
 <p align="center">
-  <b>Secure-minded software developer</b> crafting backend services, front-end experiences, and tooling that scales.<br/>
+  <b>Secure-minded software developer</b> crafting backend services, front-end experiences, and tooling that has an impact.<br/>
   Founder @ FIRST For Youth • CS (Secure Computing) • Virginia Tech
 </p>
 
@@ -72,5 +72,5 @@
 ---
 
 <p align="center">
-  <i>“Build. Measure. Learn. Secure.”</i> — Ronit Manchanda
+  <i>“Never put off till tomorrow what you can do the day after tomorrow.”</i> — Mark Twain
 </p>
