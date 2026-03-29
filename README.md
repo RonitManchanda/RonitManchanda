@@ -53,9 +53,10 @@
 
 ---
 
-### Security / Infra Highlights
+### Projects
 - **Password Manager**: zero-knowledge design, KDF-derived key (salted), Fernet encryption, 2FA via email/SMS  
-- **Network Monitor**: packet capture with `scapy`, live Dash panels, alerts on suspicious traffic  
+- **Network Monitor**: packet capture with `scapy`, live Dash panels, alerts on suspicious traffic
+### In Progress  
 - **AI Stock Bot**: Alpaca trading, risk guards, trade logging, Discord webhooks, min hold to curb churn  
 - **Scrapers @ scale**: proxy rotation, retries/backoff, fingerprinting resistance
 
