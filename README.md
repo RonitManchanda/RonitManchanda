@@ -24,7 +24,7 @@
 ---
 
 ### About Me
-- Building: **AI Stock Bot (Alpaca + Discord)** and **Network Traffic Monitor (Scapy + Dash)**
+- Building: **Currently developing ([Bloom](https://trybloom.vercel.app/))**
 - Interests: **Software Development**, **AppSec**, **networking**, **automation**, **DevOps**, **privacy-by-design**
 - Open to collab on **security-focused OSS** and **developer tooling**  
 - Fun Fact: I start robotics teams at local schools through my nonprofit **FIRST For Youth** 🎓 (https://www.firstforyouth.org)
